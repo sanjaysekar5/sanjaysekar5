@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Sanjay! 👋
 
-<!--
-**sanjaysekar5/sanjaysekar5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a backend-focused developer specializing in building secure, scalable applications.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Skills
+- **Languages:** Java, Python, SQL, JavaScript
+- **Frameworks:** Spring Boot, Spring Security, Hibernate/JPA
+- **Databases:** PostgreSQL, MySQL, Redis
+- **DevOps & Tools:** Git, Docker, GitHub Actions, Maven
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjaysekar5&show_icons=true&theme=tokyonight" alt="Sanjay's GitHub stats" />
+</p>
