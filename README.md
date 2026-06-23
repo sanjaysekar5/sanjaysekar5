@@ -1,5 +1,9 @@
 # Sanjay Sekar
 
+<p align="center">
+  <img src="animated_banner.svg" alt="Sanjay Sekar Banner" width="100%" />
+</p>
+
 Backend Software Engineer specializing in enterprise-grade Java backends, Spring Security configurations, and scalable system infrastructure. Focused on code design patterns, query optimizations, and microservice architectures.
 
 ---
